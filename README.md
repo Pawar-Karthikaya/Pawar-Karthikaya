@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @Pawar-Karthikaya
-- 👀 I’m interested in Artificial intelligence, robotics and software developement
-- 🌱 I’m currently learning Artificial intelligence and Data Science
+# Hi, I’m Karthikaya Pawar  
+
+- Passionate about Artificial Intelligence, Robotics, and Software Development  
+- Currently learning Artificial Intelligence and Data Science  
+- Exploring opportunities to apply my skills in building real-world solutions  
+
+---
 <!---
-Pawar-Karthikaya/Pawar-Karthikaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Pawar-Karthikaya/Pawar-Karthikaya is a special repository because its `README.md` appears on your GitHub profile.
 --->
